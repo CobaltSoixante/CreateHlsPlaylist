@@ -22,7 +22,7 @@ git branch -M main # Renames ur current local branch to 'main' - EG from 'master
 git remote add origin https://github.com/CobaltSoixante/CreateHlsPlaylist # Specify the remote repository we will interact with from our local client.
 #
 # In my Github account MAIN page (that I log into with my password) - create a new repository:
-# learning-#Springboot-React-Aws-Rest-imageUpload
+# CreateHlsPlaylist
 # (EXCEPT FOR THE ABOVE NAME - ACCEPT all defaults (which basically means not adding a lot of stuff that u can add later)).
 #
 git push -u origin main # PUSH from our local repository to remote (EG github) repository.
